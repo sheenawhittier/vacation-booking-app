@@ -1,0 +1,19 @@
+# Java / Maven / Spring
+target/
+*.iml
+*.class
+*.log
+/.idea/
+/.settings/
+/project
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+
+# OS / Misc
+Thumbs.db
+.DS_Store
+.env
