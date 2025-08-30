@@ -16,5 +16,6 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: Build with Maven
+      - name: Build with Maven (demo)
+        working-directory: demo
         run: mvn -B clean verify
