@@ -1,3 +1,5 @@
+![Java CI](https://github.com/sheenawhittier/vacation-booking-app/actions/workflows/build.yml/badge.svg)
+
 # Vacation Booking App
 
 A full-stack web application for booking vacations and excursions with cart and checkout functionality.  
